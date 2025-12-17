@@ -2,8 +2,4 @@
 
 void main() {
 	printf("Hello wolrd!");
-
-	printf("1234");
-
-	printf("!drlow olleoH");
 }
